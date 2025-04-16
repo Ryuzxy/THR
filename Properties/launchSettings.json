@@ -6,6 +6,8 @@
     "Container (Dockerfile)": {
       "commandName": "Docker"
     }
+    {
     Server=localhost,41421;Initial Catalog=master;User Id=sa;Password=2399cvd233;TrustServerCertificate=true
+    }
   }
 }
